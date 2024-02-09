@@ -1,3 +1,5 @@
+Mini tuto de Git
+
 - instalar git 
 - crear cuenta en github
 - crear carpeta y crear archivo index.html en raíz
